@@ -473,21 +473,3 @@ body a:hover,body a{
 		width: 66%;
 	}
 }
-@media (max-width:320px){
-	.nav_w3l ul li a {
-		padding: 4px 5px;
-		font-size: 12px;
-	}
-	.main h2, .copyright p,.more_w3ls a,.wthree_social_icons a span {
-		font-size: 12px;
-	}
-	.wthree_social_icons div {
-		width: 78%;
-	}
-	.copyright p {
-		margin: 14em 0 0;
-	}
-	body {
-		padding-bottom: 3.55em;
-	}
-}
