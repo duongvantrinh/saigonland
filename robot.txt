@@ -1,6 +1,7 @@
 User-agent: *
    Disallow: https://saigonland.top/404.html
    Disallow: https://saigonland.top/index.html
+   Disallow: https://saigonland.top/sunshine-diamond-river/du-an-can-ho-cao-cap-sunshine-diamond-river-quan-7.html
    Disallow: /du-an-khac/
    Disallow: /phap-ly/
    Disallow: /tai-lieu-du-an/
