@@ -1,7 +1,0 @@
-User-agent: *
-   Disallow: https://saigonland.top/404.html
-   Disallow: /du-an-khac/
-   Disallow: /phap-ly/
-   Disallow: /tai-lieu-du-an/
-   Sitemap: https://saigonland.top/sitemap.xml
-   
