@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg viewBox="2 1 1180 275" preserveAspectRatio="xMidYMid slice" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:bx="https://boxy-svg.com">
+  <defs>
+    <linearGradient id="gradient-0" bx:pinned="true">
+      <stop offset="0.05" style="stop-color: rgb(255, 179, 0);"/>
+      <stop offset="0.201" style="stop-color: rgb(255, 255, 0);"/>
+      <stop offset="0.35" style="stop-color: rgb(255, 252, 0);"/>
+      <stop offset="0.596" style="stop-color: rgb(255, 208, 0);"/>
+    </linearGradient>
+    <linearGradient id="gradient-0-0" gradientUnits="userSpaceOnUse" x1="468.374" y1="144.345" x2="468.374" y2="418.53" gradientTransform="matrix(1, 0, 0, 1, 288.50006, -0.430876)" xlink:href="#gradient-0"/>
+  </defs>
+  <g style="" transform="matrix(0.987844, 0, 0, 1.009204, 403.637421, -145.049789)" bx:origin="0 0">
+    <path style="fill: rgb(34, 119, 77);" d="M 757.687 144.141 L -406.953 143.901 L -408.323 417.932 C 181.556 418.711 776.099 418.688 771.799 419.017 C 783.091 347.098 712.869 307.045 757.687 144.141 Z" transform="matrix(0.999998, -0.001973, 0.002054, 0.999998, -0.577805, 0.36061)"/>
+    <path style="fill: url(#gradient-0-0);" d="M 751.199 143.916 L 761.572 143.914 C 717.734 298.625 783.441 342.777 775.042 418.086 L 769.838 418.099 C 779.842 342.031 709.718 300.173 751.199 143.916 Z"/>
+  </g>
+</svg>
