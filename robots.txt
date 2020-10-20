@@ -3,5 +3,5 @@ User-agent: *
    Disallow: /du-an-khac/
    Disallow: /phap-ly/
    Disallow: /tai-lieu-du-an/
-   Sitemap: https://saigonland.top/sitemap.xml
+   sitemap: https://a235050.sitemaphosting5.com/4200737/sitemap.xml
    
